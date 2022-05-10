@@ -1,0 +1,16 @@
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

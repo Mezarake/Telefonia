@@ -1,0 +1,14 @@
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

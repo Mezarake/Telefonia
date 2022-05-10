@@ -1,0 +1,15 @@
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Rodrigo\Projetos\curso_aspnetcore_api\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

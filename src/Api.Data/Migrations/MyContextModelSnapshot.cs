@@ -14,31 +14,36 @@ namespace Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
+                .HasAnnotation("ProductVersion", "3.1.6")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity("Api.Domain.Entities.UserEntity", b =>
+            modelBuilder.Entity("Api.Domain.Entities.PlanosEntity", b =>
                 {
                     b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd();
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
 
-                    b.Property<DateTime?>("CreateAt");
+                    b.Property<int>("FranqInternet")
+                        .HasColumnType("int");
 
-                    b.Property<string>("Email")
-                        .HasMaxLength(100);
+                    b.Property<int>("IdPlano")
+                        .HasColumnType("int");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasMaxLength(60);
+                    b.Property<int>("Minutos")
+                        .HasColumnType("int");
 
-                    b.Property<DateTime?>("UpdateAt");
+                    b.Property<string>("Operadora")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("TipoPlano")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<int>("Valor")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Email")
-                        .IsUnique();
-
-                    b.ToTable("User");
+                    b.ToTable("Planos");
                 });
 #pragma warning restore 612, 618
         }
